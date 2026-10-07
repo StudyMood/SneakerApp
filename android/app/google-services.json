@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "933251167531",
+    "project_id": "sneaker-shop-e44f0",
+    "storage_bucket": "sneaker-shop-e44f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933251167531:android:6af0f6236fe385ed17816e",
+        "android_client_info": {
+          "package_name": "com.sneakr.app.sneakr_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933251167531-a18flnmrg7kekdu2ekf0895pdj4efr52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sneakr.app.sneakr_app",
+            "certificate_hash": "88c945c7a2b158601046efe250f8b9e4e78879ff"
+          }
+        },
+        {
+          "client_id": "933251167531-54tmeieejb2nvv916hlk2tlfa1lgtij7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd-XKe7eEK7G8jKCd-287zV_P4ib5YSxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933251167531-54tmeieejb2nvv916hlk2tlfa1lgtij7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
